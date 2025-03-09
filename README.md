@@ -10,7 +10,7 @@ JavaEntertainment is a simple Java-based application that allows users to manage
 5. User Authentication: Sign up and log in to rate content and save favorite actors/directors.
 
 # Notes
-The application does not store data permanently. All information is lost upon closing.
-The application's messages are in greek.
+1. The application does not store data permanently. All information is lost upon closing.
+2. Application's messages are in greek.
 
 This project helped me understand how Java works.
